@@ -14,3 +14,35 @@
 margin-top: 20px;
 
   }
+
+  .zitat {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+
+  .link-cards {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+  }
+
+
+  .card {
+    margin-left: 50px;
+  }
+
+  .nav-link {
+    color: white;
+  }
+
+  .kurse {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .kurse .beschreibung {
+    margin-top: 10%;
+    margin-left: 20px;
+  }
